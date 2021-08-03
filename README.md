@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mustafa-Kamal
 - 👀 I’m interested in Cloud Engineering
-- 🌱 I’m currently learning Azure Data Bricks and Synapse
+- 🌱 I’m currently learning Azure Data Factory,Azure DataBricks and Synapse
 - 💞️ I’m looking to collaborate on Azure Data Engineering
 - 📫 How to reach me mustafa.kamal87@hotmail.com
 
